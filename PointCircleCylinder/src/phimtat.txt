@@ -1,0 +1,12 @@
+Alt +1: Show Project structure ở phía trái
+Alt + 4 : Show Console Log ở dưới
+Alt +12: show terminal hay command line tools
+Alt + Enter: Import thư viện
+Alt+Shilf +L : Format Code: cái này là để nhìn lại cho đẹp , remove line, space trong code.
+/** + Enter : Chèn một Comment block cho một java method –> cái này thường được xuât ra trong java doc của một dự án
+sout + Enter--> System.out.println(“”)
+psvm +Enter –> Tạo hàm main()
+Ctrl + N/Ctrl +Shilf +N(Windows) or Command + N/Command +Shifl +N(MAC) –> tới một file hoặc class trong project
+Ctrl + F:  mở cửa sổ tìm kiếm
+CTRL + Y: xoá một dòng
+….
